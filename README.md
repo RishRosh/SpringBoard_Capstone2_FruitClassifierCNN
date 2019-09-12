@@ -1,6 +1,6 @@
 # Capstone 2 - README
 
-This repository has all the collections for my Capstone Project 1 for the Springboard Data Science Career Track. The project is titled <b>'Image Recognition – Fruit Classifier' </b>
+This repository has all the collections for my Capstone Project 2 for the Springboard Data Science Career Track. The project is titled <b>'Image Recognition – Fruit Classifier' </b>
 
 The following folders and files comprise of the project:
 
